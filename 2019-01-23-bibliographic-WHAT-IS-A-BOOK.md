@@ -11,12 +11,12 @@ author: Galen Bunting
 
 A central theme I saw reflected in the readings from this week is best expressed in the form of a question. What do we mean when we say a "book," in its current 
 formulation, and how has history shaped our conception of the paper, the leather, the glue, the ink, that may make up a book? 
-A comedic example can be found in Charles Chesnutt's "Baxter’s Procrustes," which is the story of a poet named Baxter who deceives the Bodleian Club by submitting 
+A comedic example can be found in Charles Chesnutt's "Baxter's Procrustes," which is the story of a poet named Baxter who deceives the Bodleian Club by submitting 
 his verses to be published, while printing a book which is in fact blank. The members of the club roundly praise and admire the skill of Baxter's poetry, 
-without cutting the leaves of any of the volumes, and comparing the skill of the lines to the skill of the binding: “The setting,” I replied judicially,
-“is worthy of the gem. The dark green cover, elaborately tooled, the old English lettering, the heavy linen paper, mark this as one of our very
-choicest publications. The letter-press is of course De Vinne’s best,—there is nothing better on this side of the Atlantic. The text is a beautiful, 
-slender stream, meandering gracefully through a wide meadow of margin.” In the case of Baxter's Procrustes, the text assumes a metonyomy with the binding: 
+without cutting the leaves of any of the volumes, and comparing the skill of the lines to the skill of the binding: "The setting," I replied judicially,
+"is worthy of the gem. The dark green cover, elaborately tooled, the old English lettering, the heavy linen paper, mark this as one of our very
+choicest publications. The letter-press is of course De Vinne's best, there is nothing better on this side of the Atlantic. The text is a beautiful, 
+slender stream, meandering gracefully through a wide meadow of margin." In the case of Baxter's Procrustes, the text assumes a metonyomy with the binding: 
 Baxter's adulating audience praise the binding of the book as a representation of the quality of the text inside. If the gentlemen of the Bodleian Club knew 
 the origin of the poem's title, they might have had more suspicion: Procrustes is a figure from Greek mythology, a bandit who attacked passersby and forced them 
 to conform to his iron bed by cutting off parts of them or stretching them. Given this reference, we could interpret the title of the sham poem to refer to the 
@@ -57,9 +57,9 @@ This question is addressed by a series of subsequent questions:
 What we study when we study the history of books requires more specificity than Darnton had previously employed: he focused previously on six stages of
 production: authors, publishers, printers, shippers, booksellers and readers. In this revisitation, Darnton argues that it is more complicated than he 
 had previously thought. Darnton draws attention to paratexuality and intertextuality, best illustrated by the example he gives: French libel writing 
-which repeats anecdotes, "culled from a large variety of the same sources. In the seventeenth and eighteenth centuries, unlike today, “anecdote” meant 
-“secret history"... Libels were cobbled together out of material scattered through the information systems of the *Ancien Regime.* To make sense of them, 
-it is crucial to study the system itself—that is, to concentrate on intertextual combinations rather than on the book as a self-sufficient unit" (507). 
+which repeats anecdotes, "culled from a large variety of the same sources. In the seventeenth and eighteenth centuries, unlike today, "anecdote" meant 
+"secret history"... Libels were cobbled together out of material scattered through the information systems of the *Ancien Regime.* To make sense of them, 
+it is crucial to study the system itself-that is, to concentrate on intertextual combinations rather than on the book as a self-sufficient unit" (507). 
 The recycled and refurbished histories of the seventeenth and eighteenth centuries require more attention, he concludes. Finally, he focuses on comparative 
 history as a means of understanding various trends throughout book history. How books were shaped varies from each historical moment, Darnton concludes. 
 
