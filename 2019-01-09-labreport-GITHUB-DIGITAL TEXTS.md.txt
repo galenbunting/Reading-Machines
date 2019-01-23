@@ -1,6 +1,6 @@
 layout: post
 
-Title: LAB REPORT #1
+Title: Lab Report #1: GitHub
 
 tags: [lab report, fieldbook] 
 
