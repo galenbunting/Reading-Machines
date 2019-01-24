@@ -69,7 +69,7 @@ Here's some *italics*!
 4. easy
 
 
-+bullet
++ bullet
 
-+list
++ list
 
