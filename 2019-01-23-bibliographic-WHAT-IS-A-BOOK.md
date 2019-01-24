@@ -51,9 +51,11 @@ not an abstracted text, the Victorian ideal of the Reader flipped upon its head.
 
 The question of what we study when we study the history of the book is addressed in Robert Darnton's "What is the History of Books? Revisited." 
 This question is addressed by a series of subsequent questions:
-+How do books come into being?
-+How do they reach readers?
-+What do readers make of them?
+
+*How do books come into being?
+*How do they reach readers?
+*What do readers make of them?
+
 What we study when we study the history of books requires more specificity than Darnton had previously employed: he focused previously on six stages of
 production: authors, publishers, printers, shippers, booksellers and readers. In this revisitation, Darnton argues that it is more complicated than he 
 had previously thought. Darnton draws attention to paratexuality and intertextuality, best illustrated by the example he gives: French libel writing 
