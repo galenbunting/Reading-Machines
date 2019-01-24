@@ -31,9 +31,9 @@ understand the printed "before" against which so many twenty-first-century comme
 we do or do not value books (or how we devalue certain kinds of books) can aid us in reading our current moment, especially given the Victorians' ideals of 
 good and bad reading, especially in conceptualizing the debate of using "idealized printed texts as a stick with which to beat real digital ones" (2). These Manichean 
 value judgements of what consituted "bad" ways to read a book was often classed and gendered, even when they seemed to lack such a cast: 
-"The good reader—himself disembodied and unclassed—forgot what books looked like, weighed, and would fetch on the resale market; he also forgot how books
+"The good readerâ€”himself disembodied and unclassedâ€”forgot what books looked like, weighed, and would fetch on the resale market; he also forgot how books
 had reached his hands, and through whose, and at what price...Yet paradoxically, those acts of oblivion themselves became enmeshed in human relationships, 
-since reminders of the book’s material attributes got delegated to persons less rich or male or Protestant than oneself." The illustration of a coachman checking 
+since reminders of the bookâ€™s material attributes got delegated to persons less rich or male or Protestant than oneself." The illustration of a coachman checking 
 the outcomes of recent races in the sports section of a newspaper becomes a bad example of reading, as does the example of a housewife or servant who knows exactly 
 what kinds of paper can be used to wrap purchases or scrub floors. A "good" reader forgets the material binding of his book, abstracting it to a "text,"
 while the "bad" reader knows exactly what constructs the same book. 
@@ -52,9 +52,9 @@ not an abstracted text, the Victorian ideal of the Reader flipped upon its head.
 The question of what we study when we study the history of the book is addressed in Robert Darnton's "What is the History of Books? Revisited." 
 This question is addressed by a series of subsequent questions:
 
-*How do books come into being?
-*How do they reach readers?
-*What do readers make of them?
++ How do books come into being?
++ How do they reach readers?
++ What do readers make of them?
 
 What we study when we study the history of books requires more specificity than Darnton had previously employed: he focused previously on six stages of
 production: authors, publishers, printers, shippers, booksellers and readers. In this revisitation, Darnton argues that it is more complicated than he 
