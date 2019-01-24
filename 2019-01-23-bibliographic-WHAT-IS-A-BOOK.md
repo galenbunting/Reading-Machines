@@ -68,5 +68,5 @@ and isolates himself to the codex as defining what a book is. She calls for rese
 aesthetic analyses, study of political impacts, understanding of social values, and discussion of cultural practices. This theory would acknowledge that, since
 "bibliography was established on the basis of western cultural book practices, its analytic and descriptive methods need to be rethought to serve a broader 
 range of types and modes of communication." Therefore, the challenge Drucker presents to us is to think about what a future history of the book might appear 
-if we began by formulating inclusion of New World writing such as indigenous glyphs, signs, quipu, and wampum as cornerstones of bibiographic study, not reifying 
+if we began by formulating inclusion of New World writing such as indigenous glyphs, signs, quipu, and wampum as cornerstones of bibliographic study, not reifying 
 the codex as the cornerstone of the history of books. 
