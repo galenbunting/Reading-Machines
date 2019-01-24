@@ -47,6 +47,14 @@ perception, so print formats indicate an ideal reader and some sense of the cont
 this geography atlas had an ideal reader: it was much easier to hold near the candle than a 8 1/2 by 11 sheet of paper was and it was easy to tilt in order to read. 
 The human connection between this book and its reader, even by candlelight, was a close one indeed.
 
+The technology of the World Wide Web was not accessible to the general public until 1991: I was born in 1994. I have never known life without the existence of web-
+based technologies. Today, many sites (Facebook.com, Twitter.com, etc.) do not include the www. prefix which indicates their presence on the World Wide Web- and yet,
+without the web, they would cease to exist - to be illuminated by the web, the web must exist. In our use, the web becomes invisible- until it malfunctions, grows dim, 
+flickers. Countless memes trawl through the expanse of the Internet daily: meme is a shortened form of the term "remember." No wonder memes have become a touchstone 
+of internet culture- their proliferation allows for rapid communication, memory of events, and archiving of those events. Without the Internet, memes, too, would not 
+be as rapid or as widely cycled as they are today. Even analog memes, printed out on paper and ink, are usually sourced from the internet. The Internet 
+serves as an instant archiving machine, cycling scraps of information even after they have lost all kairos, all sense of timely meaning. 
+
 #Outcomes
 
 By the time the lab concluded, I was successful in reading the chapters on Massachusetts, Vermont, and Rhode Island in Morse's *Geography.* I learned that in 1820, 
