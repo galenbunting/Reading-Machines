@@ -18,11 +18,11 @@ off to neighboring apartments to "turn over the *Decameron* ere retiring for the
 way in which the printed pages which he discusses with his comrades are created: in fact, Melville emphasizes how removed the bachelors remain from working-class 
 and impoverished people: their rooms are full of old, snug, furniture, they have disposable income upon which to travel, and they are physically above the winding 
 streets of London. In direct contrast, he places the girls who work at the paper mill: the road to the gorge is characterized "as within a Dantean gateway," and 
-the mill itself is named the "Devil’s Dungeon paper-mill"- our narrator is a seed distributor, in need of more wholesale paper for his business, thus he hopes to 
+the mill itself is named the "Devilâ€™s Dungeon paper-mill"- our narrator is a seed distributor, in need of more wholesale paper for his business, thus he hopes to 
 make a business deal at this mill. The girls who work in the mill bear a great resemblance to the paper they process: "At rows of blank-looking counters sat 
 rows of blank-looking girls, with blank, white folders in their blank hands, all blankly folding blank paper." The paper-mill is not a printing-press, which 
 perplexes our narrator: while touring the factory, he asks his guide, Cupid, whether the paper is printed there: "You make only blank paper; no printing of 
-any sort, I suppose? All blank paper, don’t you?" To this, Cupid responds, "Certainly; what else should a paper-factory make?" The maids are part of the machinery 
+any sort, I suppose? All blank paper, donâ€™t you?" To this, Cupid responds, "Certainly; what else should a paper-factory make?" The maids are part of the machinery 
 of the paper-mill, a fact which inspires guilt and pity in our narrator as he winces at their pale, unhealthy faces, especially as they tear apart rags which 
 could be from the shirts of bachelors. The metaphor of Tartarus surrounds the paper-mill: it is invisible to our narrator until he tours it, and sees how 
 inextricable human labor is from the page. 
@@ -36,10 +36,10 @@ thinkers throughout the eighteenth century saw their own country reflected on th
 "How does a metaphorical understanding of paper, developed in relation to a technical understanding of paper, recruit communities to both a material practice 
 of papermaking that was beneficial to the private and public interests of the state and an ideological sense of unification?" While many scholars see the printed 
 page as a means of tracing nation building, the blank page also appears as a metaphor for nationalism, thus it is important to consider how the 
-production of paper served as a political engine. Joseph Addison’s Spectator for May 1, 1712 communicates a narrative of the materiality of the printed page, 
+production of paper served as a political engine. Joseph Addisonâ€™s Spectator for May 1, 1712 communicates a narrative of the materiality of the printed page, 
 imagining how The Spectator provides multiple public spheres with political conversation and rhetoric. Senchyne borrows from Derrida to argue that the state 
 constitutes a "paper machine" itself: Senchyne points to the shorthand of "undocumented" persons to highlight our dependence on paper today. In a very 
-real sense, colonial America depended on the manufacture of paper: with the Stamp Act which mandated the taxation of paper, therefore to collect rags
+real sense, colonial America depended on the manufacture of paper: when the Stamp Act mandated the taxation of paper, collecting rags
 for paper-making was a patriotic duty. Without paper, legal documents, political documents, newspapers, schools, and other political institutions would 
 be hampered. 
 
@@ -51,11 +51,11 @@ Meanwhile, *Little Jim* was a story intended to show how rag-picking allowed a b
 Both stories constitute different messages about how technologies in creating paper money was perceived by their authors. 
 
 In Bonnie Mak's "Architectures of the Page," the history of the page itself is front and center. Mak argues for "a critical analysis of its role in the 
-transmission and preservation of knowledge – both within and without the codex" (10). The formation of the page itself has been shaped by cultural and historical 
+transmission and preservation of knowledge â€“ both within and without the codex" (10). The formation of the page itself has been shaped by cultural and historical 
 forces over time, Mak argues. Therefore, it is important to pay attention to its formation, from the papyrus scrolls of the Nile, to the codex of today. Mak 
 points to the papyrus scroll's formation as a site of importance: at one point, the papyrus scrolls become thicker and the papyrus used to make the scrolls becomes 
 more coarse, indicating that the makers were responding to climate change along the Nile by using papyrus which would have been discarded before. Prose and poetry 
-differ in layout acros paginae. The arrangement of the paginae itself indicates that the makers of such paginae wanted to guide the eye of the readers by layout of 
+differ in layout across paginae. The arrangement of the paginae itself indicates that the makers of such paginae wanted to guide the eye of the readers by layout of 
 text and space to understand the message as the scroll was unfurled (12). Similarly, a wax tablet indicates where writing should occur, inside the boundaries of its 
 frame it contains the layout of a page (13). The boundaries of a codex similarly frame the text, though its form permits a *recto* and *verso* page. 
 Even for the blank pages of a codex, Mak argues, "The physical boundaries of the page have thus already been determined before any design of text or 
