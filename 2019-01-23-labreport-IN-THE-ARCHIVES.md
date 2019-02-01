@@ -13,7 +13,7 @@ noticed about them, and to try and draw comparisons between the pairs. I first e
 *Ovidii Nasonis Amatoria* (1546). I then examined Charles Dickens' *Sketches of Young Couples* (1840) and Jacob A. Riis' *How the Other Half Lives* (1904).
 I then examined Alexander Jones' *Historical Sketch of the Electric Telegraph* (1852) and George W. Pierce's *Principles of Wireless Telegraphy* (1910).
 
-For the purposes of the following reflections, I will discuss my examination in opening the “Dragon Prayer Book” (after 1461) and Ovid's 
+For the purposes of the following reflections, I will discuss my examination in opening the *Dragon Prayer Book* (after 1461) and Ovid's 
 *Ovidii Nasonis Amatoria* (1546) as a pair. I will discuss virtual openings from a Medieval Bestiary (circa 1200) and the Sherborne Missal (circa 1400). 
 As an appendix to my analysis, I will discuss my examination in opening Charles Dickens' *Sketches of Young Couples* (1840) and Jacob A. Riis' 
 *How the Other Half Lives* (1904).
