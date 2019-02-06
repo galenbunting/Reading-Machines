@@ -1,4 +1,7 @@
-Post: Bibligraphic Entry 
+layout: post
+Title: "PRINT CULTURE/INTERNET CULTURE/THE PRINTING PRESS"
+tags: [bibliographic annotation, fieldbook]
+author: Galen Bunting
 
 In his *Autobiography,* Benjamin Franklin establishes his proclivity for books in the second chapter. In this chapter alone, he lists 
 the following texts: 
