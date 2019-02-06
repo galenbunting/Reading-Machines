@@ -25,7 +25,7 @@ passed, when my father happened to find my papers and read them. Without enterin
 printing-house), I fell far short in elegance of expression, in method and in perspicuity, of which he convinced me by several instances.
 I saw the justice of his remark, and thence grew more attentive to the manner in writing, and determined to endeavor at improvement."
 
-Franklin explains that he taught himself rhetoric by encountering an issue of the *Spectator*: I took some of the papers, and, making 
+"Franklin explains that he taught himself rhetoric by encountering an issue of the *Spectator*: I took some of the papers, and, making 
 short hints of the sentiment in each sentence, laid them by a few days, and then, without looking at the book, try'd to compleat the 
 papers again, by expressing each hinted sentiment at length, and as fully as it had been expressed before, in any suitable words that should come to hand." 
 
@@ -33,11 +33,14 @@ Borsuk notes, "We should remember that the ability to mark up a text to this deg
 
 + In these early debates, how does one see the question of content versus form emerging? How does form enable content, or render content 
 more accessible to a reader or audience? 
++ How does Franklin define what it means to be bookish through these references? 
 
 Across chapters two through seven, Franklin lists an assortment of texts, including  
  + Tryon's *Health's Grand Preservative; or, The Women's Best Doctor*
  + Cocker's book of Arithmetick
  + Seller's and Shermy's books of Navigation
+ + Xenophon's *Memorable Things of Socrates*
+ + Greenwood's *English Grammar*
  + Locke *On Human Understanding*
  + *The Art of Thinking* by Messrs. du Port Royal
  + James Franklin's *New England Courant*
@@ -46,13 +49,21 @@ Across chapters two through seven, Franklin lists an assortment of texts, includ
  + DeFoe's *Religious Courtship* 
  + DeFoe's *Family Instructor*
  + Richardson's *Pamela*
- 
-+ How does Franklin define what it means to be bookish through these references? 
- 
-After running away from his apprenticeship in Boston, and in crossing over the bay to Philadelphia, Franklin encounters a man in
-ownership of Bunyan's Pilgrim's Progress, "finely printed
+ After running away from his apprenticeship in Boston, fleeing the beatings of his brother, Franklin encounters a man in
+ownership of Bunyan's Pilgrim's Progress as he crosses the bay to Philadelphia: "finely printed
 on good paper, with copper cuts, a dress better than I had ever seen it wear in its own language. I have since found that it has been
 translated into most of the languages of Europe, and suppose it has been more generally read than any other book..." 
-
+  
 + How is Franklin aware of the way in which texts circulate here? 
+
++ In discussing print and the making of print, Franklin judges what constitutes a bad press("Keimer's printing-house, I found, consisted of an old shatter'd press, and one small, worn-out font of English,"), a bad apprenticeship ("My brother was passionate,
+and had often beaten me") and bad fellow pressmen ("Five shillings was demanded of me by the
+compositors. I thought it an imposition, as I had paid below...I stood out two or three weeks, was accordingly considered
+as an excommunicate, and had so many little pieces of private mischief done me, by mixing my sorts, transposing my pages, breaking my
+matter, etc., etc., if I were ever so little out of the room"). Lisa Gitelman argues that *print culture* as a definition "should embrace the customs and practices that evolved within Western printing establishments, among the men and women who have, since the 1450s, specialized in the technological reproduction of textual materials. Print culture is at least the culture of printers, in other words, consolidated as such by the guild and apprenticeship systems, for instance, as well as by emergent social and economic norms that worked to structure printers as a class of actors in relation to other actors: authors and booksellers, yes, but also institutions like church and state" (186). How does Franklin either challenge or continue this definition of print culture? Do his judgements in the 
+*Autobiography* do anything to alter this definition? In what other places does Franklin define print culture?
+
++ Gitelman tells us that "In 1829, the U.S. Supreme Court decided that newspapers weren’t subject to copyright because they were so “fluctuating and fugitive,” changeable according to the frequency of their issue and the currency of their contents. In 1918, it elaborated that “hot” news itself can’t be copyrighted, even if the particularity of its expression can be.5 The codex and its contents are sluggish and stable, “cold” by comparison to noncodex artifacts: books are slow to bloom, as anyone will admit who has ever tried to write and get one published" (187-188). What were the implications of the lack of copyright for noncodex items?
+
++ Marcy Dinus draws our attention to the ways in which the printing press was anthropomorphized as both a literary device and as an attestation of the human qualities which both proslavery and antislavery activists attributed to the machine, while debating the rights of people of African descent: "That the press was understood in early America as such a powerful agent of change suggests a recognition of both its amplificatory function—spreading words and ideas from a single source to many others, often across great distances—and the physical strength of the men behind these machines." How does an awareness of the mechanics of the press, along with Garrison's use of an index which included a white hand pointing, redefine the phrase "the power of the press"? 
 
