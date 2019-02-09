@@ -1,4 +1,4 @@
-oLayout: post
+Layout: post
 
 Title: Lab Report #4: The Printing Press
 
