@@ -1,6 +1,9 @@
-ayout: post
+Layout: post
+
 Title: Lab Report #4: The Printing Press
+
 tags: [lab report, fieldbook]
+
 author: Galen Bunting
 
 # Lab Proceedings 
@@ -43,14 +46,23 @@ selected spacers to surround the form, a galley to place the form, and a composi
 California Job Case, and a octet poem called *A Painter's Epitaph." Each line of the poem bore a pun regarding a term related to printing: 
 
 A Printer's Epitaph. 
+
 Here lies a *form;* place no *imposing stone*
+
 TO mark the *head,* where weary it is lain,
+
 'Tis matter *dead,* its mission being done, 
+
 To be *distributed* to dust again. 
+
 The body is but the *Type,* at best, of man, 
+
 Whose *impress* is the spirit's deathless *page;* 
+
 Worn out, the *type* is thrown to *pi* again, 
+
 The *impression* lives through an eternal age.
+
 
 To compose a line of type, with the manuscript beside me, was more complicated than I had expected (and I had not expected it to be easy. 
 I first tried to begin with the first line, but found that I had placed the type in the composing stick facing the wrong direction, so that
