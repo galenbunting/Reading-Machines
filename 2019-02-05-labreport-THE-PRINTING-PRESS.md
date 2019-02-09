@@ -1,4 +1,4 @@
-Layout: post
+oLayout: post
 
 Title: Lab Report #4: The Printing Press
 
@@ -49,7 +49,7 @@ A Printer's Epitaph.
 
 Here lies a *form;* place no *imposing stone*
 
-TO mark the *head,* where weary it is lain,
+To mark the *head,* where weary it is lain,
 
 'Tis matter *dead,* its mission being done, 
 
