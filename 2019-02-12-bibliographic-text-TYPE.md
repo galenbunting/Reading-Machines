@@ -6,6 +6,7 @@ tags: [bibliographic annotation, fieldbook]
 
 author: Galen Bunting 
 
+# 2019-02-12
 
 The sentence I used to title this fieldbook entry is literal filler text. It appears in various typing fieldbooks throughout the 19th and 
 20th century, in order to attain speed while learning to use the early Remington. This typing test was just one way to mediate the divide 
@@ -46,4 +47,9 @@ Perseverance" argues that Sequoyah's system of syllabary which he developed for 
 shift away from English, but that scholars "overlooked the possibility that Sequoyah might have known more English and had more facility with letters than they may have wanted to believe"- this belief gestures towards intentional oversight, that scholars ignored the fact that Sequoyah deliberately chose to eschew the English alphabet in creating a system of writing which stands apart from an alphabet. In fact, to understand this system of technology through the rules of an alphabet is to obscure its meaning. Cushman argues that "Sequoyah was literate in English, he rejected the influence of the alphabet and the English language as he developed the Cherokee writing system. When seen as a writing system in its own right—one that is read, written, and codifies the Cherokee language—Sequoyan reveals linguistic logics that continue today to contribute to Cherokee peoplehood." The Cherokee syllabary exists as a powerful tool of
 peoplehood which stands apart from the English alphabet: when teaching Cherokee in Oklahoma, it is important to separate it from the alphabet as a mode of writing, and to treat it as its own technology. 
 
+# 02-20-2019
+
+## Addition 
+
+In this addition to my fieldbook entry, I reflect on the introduction to Ellen Gruber Garvey's *Writing With Scissors.* The speed with which newspapers proceeded across the country made readers long for some form of information control. While presses often did not concentrate nor center upon stories which reflected the daily lives and struggles of African-Americans and women within the 19th century, their scrapbooks tell a different story altogether, a mission which reminds me of the Early Caribbean Digital Archive at Northeastern, which seeks to decolonialize the archive. While we might read these scrapbooks as mere filing systems, Garvey draws our attention to their organization and arrangement on paper pages, as well as the many uses which scrapbooks held, from pedagogical uses in the classroom, to arranging material for speeches, to household catalogues of tips and tricks. Scrapbooks, along with albums, portfolios, and commonplace books, were all technologies for controlling and managing information overload, as well as a means of preserving and expressing stories. 
 
