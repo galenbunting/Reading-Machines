@@ -10,17 +10,28 @@ author: Galen Bunting
 
 David Medina led us all into the brick-walled room where Huskiana is housed, and instructed us to each select a galley, a composing 
 stick, and one of the California Job Cases with our chosen sorts. While I chose size 18 Futura for my type, I began by selecting two 
-floral decorative elements to further illustrate my chosen text. I had selected the first seven lines of Thomas Stearn Eliot's poem *The Wasteland.* 
+floral decorative elements to further illustrate my chosen text. I had selected the first seven lines of Thomas Stearns Eliot's poem *The Wasteland.* 
 This poem is arranged into five sections: the first lines are drawn from the section entitled "The Burial of the Dead." Once type is locked 
 into a bed, it is considered "dead" type, so the ironic nature of placing these lines into movable type was not lost on me. 
 
 These lines read: 
+The Waste Land 
+by T.S. Eliot 
+
+I. The Burial of the Dead 
+
 April is the cruellest month, breeding
+
 Lilacs out of the dead land, mixing
+
 Memory and desire, stirring
+
 Dull roots with spring rain.
+
 Winter kept us warm, covering
+
 Earth in forgetful snow, feeding
+
 A little life with dried tubers. 
 
 I hoped that the floral elements might be reminiscent of the lilacs of the third line.
@@ -46,9 +57,13 @@ decorative elements assembled on a fifth line. I did not want to be out of sorts
 tray, I opted to make a change. Here is a rough approximation of how my type looked when I finished: 
 
 April is the cruellest month, breeding
+
 Lilacs out of the dead land, mixing
+
 Memory and desire, stirring
+
 Dull roots with spring rain.
+
 ⚘                          ⚘
 
 Krischenbaum argues that "A literary history of word processing must therefore acknowledge not only the hybrid, heterogeneous nature of 
