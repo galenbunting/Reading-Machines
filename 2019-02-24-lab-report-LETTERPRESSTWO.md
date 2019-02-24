@@ -64,7 +64,7 @@ Memory and desire, stirring
 
 Dull roots with spring rain.
 
-⚘                          ⚘
+⚘ __________________ ⚘
 
 Krischenbaum argues that "A literary history of word processing must therefore acknowledge not only the hybrid, heterogeneous nature of 
 both individual persons and their personalities, but also the highly complex scene of writing (and rewriting) that we observe today, 
@@ -76,7 +76,9 @@ Given the the fact that we have been reflecting upon human connections to our te
 section (*A Game of Chess*) which reads:
 
 At the violet hour, when the eyes and back
+
 Turn upward from the desk, when the human engine waits
+
 Like a taxi throbbing waiting...
 
 My eyes and back certainly did throb like a waiting taxi by the time I finished assembling my type into lines at the end of the lab.
