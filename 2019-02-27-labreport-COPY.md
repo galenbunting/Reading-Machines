@@ -6,7 +6,7 @@ tags: [lab report, fieldbook]
 
 author: Galen Bunting
 
-# Lab Proceedings: Not A Good First Impression
+# Lab Proceedings: A Bad First Impression
 
 In this lab, all members of the class proceeded into the press room, where we each obtained our galleys, where previously we had composed our 
 type into lines. While Laura, Avery, and Ken still had to finish their composing, Meg's type was ready to be put to bed. David assisted her in 
