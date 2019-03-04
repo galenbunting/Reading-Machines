@@ -44,7 +44,50 @@ good. After printing six copies, I stopped printing for the night.
 # Reflections
 
 The events of this week's lab invited us to consider the mechanical action of printing, the practical planning and work which printing requires, 
-and the way in which one must plan and adjudicate one's time while printing. William Blake's desire for authorial 
+and the way in which one must plan and adjudicate one's time while printing. William Blake's desire for authorial control and license was 
+even more apparent to me: his "Infernal Method" as a "method of Printing which combines the Painter and the Poet" would enable Blake near-
+complete creative license in shaping his illuminations and carving his poetry. My own flawed copy struck me with a bolt of realization- 
+the reason Blake would carve out his poems first was most likely to avoid making mistakes! Of course he carved his poems first and then 
+designed his illustrations around them! This realization was shaped by the many typos I created in this process: remedying them extended the printing time. It would have been much worse if I had been creating a book, instead of one impression! 
+
+Secondly, Ryan Cordell argues in  "'Q i-jtb the Raven': Taking Dirty OCR Seriously" that data mining depends "not on nineteenth-century newspapers themselves, but on those newspapers as remediated by mass digitization, a phrase that shorthands elaborate systems of scholarship, preservation, bureaucracy, human labor, machine processes, and economics" (190). These scans often include extant type-setting errors. I myself have noted many of these errors in texts of the Women Writers Project: we retain these type-setting errors by encoding them as <sic></sic><corr></corr> surrounded by <choice> so as to allow these errors to show up and remain if one would like to study them. While 
+previously I did not understand how easy it is to commit type-setting errors, I realize that it is easier to create a bad first impression
+than a fair one. Perhaps some similar marking should be made for dirty OCR, if one has not already. 
 
 # Outcomes 
 
+By the end of the lab, I had printed six copies of the first four lines of The Waste Land by T.S. Eliot, along with a flawed first two copies. 
+
+I have chosen to reproduce all three versions here. 
+
+Version 1: 
+
+April is the cruellest month, breeding 
+
+Lilacs out of the dead land, mixing 
+
+Memory and desire, stirrring 
+
+Dull roots with spring ran. 
+
+
+Version 2: 
+
+April is the cruellest month, breeding 
+
+Lilacs out of the dead land, mixing 
+
+Memory and desire, stirriring 
+
+Dull roots with spring rain. 
+
+
+Version 3 (the final version): 
+
+April is the cruellest month, breeding 
+
+Lilacs out of the dead land, mixing 
+
+Memory and desire, stirring 
+
+Dull roots with spring rain. 
