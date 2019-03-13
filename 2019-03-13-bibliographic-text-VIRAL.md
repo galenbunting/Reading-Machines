@@ -26,7 +26,7 @@ shape a publication through popular foreign books which had already claimed an A
 these rogue viral texts were often not just legal and accepted, but highly intentional financial investments. Illustrations, expensive to make 
 and produce, added authority and value to a printed text (29). Gift books constituted a particular economical investment: decontextualized 
 plate engravings accompanied anonymous poems, all intended to raise and heighten affect in a female viewer as gifted to her by her male 
-admirer (
+admirer (32).
 
 Ryan Cordell and Abby Mullen ask us to consider not just why viral texts were reproduced in newspapers throughout the 
 nineteenth century, but how they were reproduced in "'Fugitive Verses':The Circulation of Poems in Nineteenth-Century American Newspapers." 
