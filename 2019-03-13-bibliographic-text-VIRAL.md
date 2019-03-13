@@ -79,3 +79,16 @@ marked writing style. Elizabeth Cady Stanton's positioning of Fern as a woman es
 exercising the trade of writing (224). The incident of Fanny Fern invites us to consider the ramifications and fallout of the reprinting 
 industry of antebellum America. 
 
+Finally, it is difficult to imagine our modern concept of virality without discussing the viral avenues allowed by the internet. In 
+"Composing for Recomposition: Rhetorical Velocity and Delivery," Jim Ridolfo and Dànielle Nicole DeVoss communicate through the form of 
+the press release, a viral text of the twenty-first century's internet. In this press release, Ridolfo and DeVoss examine "the rhetorical
+possibilities of composing for strategic recomposition." The term rhetorical velocity encourages an increased concern for the way in which 
+a text is delivered, its speed, its timing, and the factors which enable its virality. Remixing, or mixing and matching the work of others 
+to form a new whole, embodies a completely new rhetorical practice which has never been as easy as in the twenty-first century. The remix constitutes a rhetorical practice which highlights the fact that "rhetorical practices in a digital age are different than traditionally conceived." When asked the principal element of rhetoric, Demosthenes repeated, "delivery, delivery, delivery." Aristotle, in contrast, emphasizes the modes of delivery as a more important facet of rhetoric. Unlike Aristotle, we can no longer assume that "that the time, place, and medium of delivery will necessarily be the same for both the speaker and the speaker’s audiences" even with oral delivery. 
+Newscasts regularly use coverage from many other sources: these sources are often delivered with a small identifying logo to show where 
+these sources are. As Ridolfo and DeVoss argue, "composing practices are increasingly taking delivery into consideration in particular ways." Ridolfo and DeVoss then bring rhetorical velocity into a place of visiblity within the classroom, encouraging students to trace how news articles are spread and remixed. Through this exercise, Ridolfo and DeVoss argue that students will learn how text is circulated online and how text changes and is remixed: it is an invitation to imagine what text would look like if its authors imagined it would constantly be remixed. 
+
+I recently read a news article examining the app Tik Tok. This app allows its users to record video with a host of various filters, 
+effects, and audio, encouraging them to use clips of audio from a mass of various sources, everything from anime quotations to the latest pop songs, enouraging them to sing along through the use of hashtags, which serve to promote various memes, trends, and other forms of repeated, remixed comedy. This app's backbone are its hashtags, and while users can create their own audio, most repurpose already available audio and filters. Some use costumes, some use elaborate editing, and some just use old-fashioned physical comedy. This app is the prime example of what a website based on virality might appear. Tik Tok stars who go viral can also gain money and attention from the app. 
+To go viral means to command attention and sometimes economic power. However, it may also lead to a lack of agency in controlling one's 
+work and image. 
