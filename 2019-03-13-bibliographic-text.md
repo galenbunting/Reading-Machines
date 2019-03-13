@@ -53,3 +53,29 @@ This poem presents children and childhood as a completely innocent and unassaila
 I sit dreaming/ Of my childhood, too lovely to last!" Dickens did not have a lovely childhood. He worked in a blacking warehouse while his father 
 was in debtor's prison. A fugitive verse is an apt term for the authority which the poem took on under the name "Dickens"- as Cordell and Mullen argue, 
 "newspaper’s material and social operations undermine such controls." 
+
+Fugitive verses often attempted to instill moral lessons, as in the verse, "Tired Mothers," of which Cordell and Mullen argue, "The poem’s content and sentimental appeal echo other newspaper poems, across both time and space, offering middle-class readers novelty." Unlike 
+"The Children," "Tired Mothers" has no known author, although it was printed in at least 275 newspapers, according to the Viral Texts site. 
+It, too, romanticises the state of childhood, figuring the speaker as a tired mother whose body weakens as her child lays on her knee, and then resorts to sudden melodramatic, sentimental flights: "The little boy I used to kiss is dead!" Such a poem had wide appeal, which meant 
+it was a perfect candidate for scrapbooking across age, sex, and economic boundaries. The fact that it is anonymous means that readers can 
+imagine themselves as any of the characters within the poem: they may remember their own childhoods, or they may be either a mother or a father, grieving the loss of their own child. 
+
+The poem "Beautiful Snow" was reprinted at least 276 times: it imagines the snow as an personified being, able to kiss, to hurry, and to fall. The speaker tells of his tale of woe, his fall into sin, and his final death in the snow. According to the Viral Texts project, the 
+authorship of this sentimental poem was often longer than the poem itself, taking up more type and space than the poem. Given how many times 
+it circulated, its figuring of the snow as an innocent, ethereal, romanticised being, and the moral fall of the speaker, it was probably a 
+likely candidate for the scrapbooks of its readers. The story which accompanied "Beautiful Snow" of its disputed authorship also probably 
+lent an air of intrigue to the poem. 
+
+Melissa J. Homestead recounts an intriguing incident of such antebellum license in "'Every Body Sees the Theft': Fanny Fern and Literary
+Proprietorship in Antebellum America." In this essay, Homestead describes how Fanny Fern found a wide readership in *The Olive Branch* as 
+she published satirical sketches, didadic stories, sentimental stories, and flirtatious "letters" to her admirers. This comedy was republished in the newspaper the *True Flag* which opened her works up to a larger audience, as her work was quickly reprinted across the country. Fanny Fern showed herself to be not only a quick-penned wit, but a savvy businesswoman, "exploiting this often chaotic whirl of reprinting to her own benefit, but the exchange system always represented both an opportunity and a threat" (212). She published an
+autobiographical novel to lay claim to her authorial persona "fractured and unstable in the periodical context" (212). Fanny castigates 
+attempts to mimic her trademark writing style: "Dear Mr. Norris: You remember how touchy Mr. Carpet Bag was when I got up a spurious Mrs 
+Partington? Well, you said I mustn't, and I didn't! (any more;) and now just please strangle in the birth any embryo imitations of Miss
+"Fanny," won't you? It seems to me just as fair in this case as the other" (216). In some instances, however, Fanny Fern's name would be 
+added to mistaken scraps of texts which she did not, in fact, author, as in the case of the sentimental story "Crushed Jewels." This 
+fluidity between text and identity was one of the pitfalls of the fact that Fanny Fern was a pen name, without identity other than a trade 
+marked writing style. Elizabeth Cady Stanton's positioning of Fern as a woman escaping slavery draws upon the economic freedom gained by 
+exercising the trade of writing (224). The incident of Fanny Fern invites us to consider the ramifications and fallout of the reprinting 
+industry of antebellum America. 
+
