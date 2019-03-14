@@ -93,4 +93,9 @@ We then used another code to count characters to make sure we stayed within Twit
 # Reflections and Recountings 
 
 In particular, our use of Twitter to post to trending hashtags made me wonder what a stray wanderer into those trending hashtags would think, 
-if they strayed across our bot-created literature. We, of course, know the context, but would an outsider? Probably not. 
+if they strayed across our bot-created literature. We, of course, know the context, but would an outsider? Probably not. In essence, 
+these Twitter posts are digital scrapbooking, an Edgar Allen Poe text cut into pieces with digital scissors and reshaped in our 
+likeness. In *Writing With Scissors,*  Garvey draws our attention to  scrapbooking organization as a means of managing information overload. Scrapbooks, along with albums, portfolios, and commonplace books, were all technologies for controlling and managing information overload, as well as a means of preserving and expressing stories. They were also Victorian means of remixing and reformatting data. Bots, too, can be 
+read as means of expressing stories in a new form, adding new meaning in new forms. In addition, Ryan Cordell and Abby Mullen use the term "Fugitive Verses" to describe texts that have been cut loose from their original authors and codified into newly recognizable texts. We 
+are in effect creating fugitive verses which have been copied and pasted and remixed from their original forms, errant, without authors in 
+the digital sphere. 
