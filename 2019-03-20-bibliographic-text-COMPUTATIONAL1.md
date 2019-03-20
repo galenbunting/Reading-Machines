@@ -39,5 +39,16 @@ of dead metaphors, Tenen effects a dialectic practice of reading and making digi
 spammers do routinely find themselves in court just as notable Wikipedia contributors receive 'barn stars' in recognition of their efforts" (14).
 
 In his chapter "Metaphor Machines," Tenen argues that we utilize machines every day which use fuzzy logic: "Like good theater, we experience
-the machine in immersion, suspending disbelief" (23).
+the machine in immersion, suspending disbelief" (23). We call the act of processing text via smartphone "reading," when in fact the process 
+of reading smartphones requires chains and chains of code: "What originates from (1) the keyboard as the mechanical action of a switch
+becomes (2) an electric signal that (3) leaves electromagnetic marks in computer memory, which (4) morph into phases of liquid crystal on-
+screen, leaving behind (5) letters that emanate outward as light." (24). Such an interaction with reading creates a simulacrum: "simulation... without a referent" (25). Tenen tries to interrupt this metaphor of the computer in this chapter. He deconstructs this
+metaphor through cognitive metaphor theory (26), since metaphors  perform  mappings from one domain to another (29). How does the interface 
+of the "computer desktop" function? Tenen argues that in fact computer design manifests "what is called skeuomorphic design, by which screen
+reading retains the ornaments of print" (38). Computer trashcans do not delete a document completely from a computer's desktop, and the earmarks of a digital document changes based upon its platform. The mimesis of the digital document places the burden of transference upon 
+the reader, who must adjust to the medium of the digital platform (39). Before the 1980s, Alan Turing explained the interaction between a person 
+and a machine in light of a dialogue, or conversational programming (43). However, computers only recongized a limited number of words, as in 
+Colossal Cave Adventure (45). The symbolic notation of later coding reflected Leibniz's system of symbolic notation which originated with 
+his calculus: "the exact nature of a thing briefly and, as it were, picture it." (46). It is important to consider the mimetic nature of 
+computer programming: "Media mediate. But they also grow opaque through habituation." (52).
 
