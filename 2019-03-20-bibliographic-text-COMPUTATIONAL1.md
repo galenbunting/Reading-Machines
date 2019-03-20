@@ -50,5 +50,36 @@ the reader, who must adjust to the medium of the digital platform (39). Before t
 and a machine in light of a dialogue, or conversational programming (43). However, computers only recongized a limited number of words, as in 
 Colossal Cave Adventure (45). The symbolic notation of later coding reflected Leibniz's system of symbolic notation which originated with 
 his calculus: "the exact nature of a thing briefly and, as it were, picture it." (46). It is important to consider the mimetic nature of 
-computer programming: "Media mediate. But they also grow opaque through habituation." (52).
+computer programming: "Media mediate. But they also grow opaque through habituation." (52). 
+
+Similarly in Jerome McGann's "The Textual Condition," he describes himself as an April fool, as he has lost his speech due to his computer 
+crashing. He began systematically counting the texts he intended to analyze, sitting down at his computer, and writing. The next day, the machine delivers its worst message: "BDOS ERROR." Just as his computer freezes, McGann freezes, only able to mash the Return key ineffectually, unable to keep his computer from corrupting his file. "I will eventually run the corrupted file through my recovery programs 
+and get back, in return for my trouble, fragmented bits of those once beautiful sentences and fragments. I wish my machine were alive. I
+would like to kill it" (92). This frustration, this refiguring of the computer state in his own body, this response to a lack of control by imagining his computer as a living thing which can be killed. However, the computer error guides McGann to reformulate his thoughts, assembling definitive statements which do not reach the same conclusions as before. This textual instability represents a mechanical interference which fundamentally changes McGann's final product, the text which we are reading (94). As McGann argues, we are beyond mere writing in our current textual condition. 
+
+Meanwhile, Sydney Shep asks in "'Smiley, you’re on candid camera': Emoticons & Pre-Digital Networks", "Why then, after some four hundred years of print’s visible language has the smiley or emoticon been introduced?" While the immediacy of netiquette sometimes requires the use 
+of the smiley to break the ice, Shep also asks the question, "But what do we make of earlier experiments in expressive typography"? 
+Personified typography has existed throughout print history, as Shep points out. Shep draws our attention to an example of early expressive 
+typography from examples in The British and Colonial Printer and Stationer, located in the  "Mems from our File" (a title which immediately 
+makes me think of the term "meme," a circulated artifact of memory), both in issues from February 16, 1882, and March 2, 1882. 
+These "funny compositors' portraits" were previously circulated in Puck, which ran the four emoticons in its March 30, 1881 edition. Shep 
+then argues that nineteenth century printing journals  "connected printers in a 'trans-imperial discourse of colonialism' and helped to produce an 'imagined geography of empire'". Efforts to trace the source of the internet smiley remain illusive: while Kevin Mackenzie is 
+credited with the tongue-in-cheek smiley, Harlan Ellison suggested that science fiction contributors of the 1940s and 50s routinely punctuated their prose with a simple sideways smile framed by quotes: ")". Theodore Adorno anthropomorphizes punctuation marks in 
+Noten zur Literatur / Notes to Literature. Fahlman’s creation of the smiley was represented by an email exchange to create a design solution
+a communication problem amongst the computer science bulletin board community at Carnegie Mellon University, when jokes online were hard to 
+discern from literal emails. The solution? An asterisk in the subject line. This narrative is a remarkably human impact on computer communication. 
+
+In the 2009 webcomic *Homestuck,* wherein a group of friends end the world and summon a new one through playing a beta copy of a computer
+game, each character communicates with the others through an imaginary instant messaging service. 
+(The webcomic concluded in 2016, if one does not count multiple epilogues and updates via SnapChat, and entails more than 8000 pages and
+800,000 words). As the story progresses, the four friends are trolled by twelve internet trolls, who turn out to be an alien race who have
+played the game in a different timeline. Each of the friends (and their trolls) are identified by a "quirk," or internet accent formed by a
+combination of emoticons, internet slang, textspeak, and text colors. This experiment in voice attests to the humanizing effect of smileys
+and the impact of internet culture upon media creation.
+
+Rita Raley's "TXTual Practice" asks the question, "are text messages displayed on large video screens or mobile variable message signs,  or  projected on building facades or on open ground in public squares, meaningful or not meaningful?" (5). She considers public art installations 
+which utilize text messages to consider how this public art functions as "scenes of reading and writing that are particular to the moment of
+ubiquitous mobile media and that make visible certain transformations that are occurring in our relationship to text in the ordinary sense
+of linguistic signs." (7). She calls this dialetic "TXTual practice," 
+
 
