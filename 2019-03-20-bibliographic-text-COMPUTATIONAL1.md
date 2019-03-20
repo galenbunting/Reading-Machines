@@ -9,7 +9,7 @@ author: Galen Bunting
 We are surrounded by texts, visible and invisible. The texts for this week speak to this intertextuality which is embedded throughout our 
 world, by design. Not only text, but code (which may be read as a kind of text) constitutes the scripts which allow our smartphones, our 
 fire alarms, and our computers to continue functioning. These texts all invite us to consider how these texts capture both us and the media
-forms which we interact with, from 
+forms which we interact with, and how we can continue to remain aware of our interactions with and through such texts. 
 
 Denis Tenen discusses how "code equals code" in "Computational Poetics: An Introduction" and "Metaphor Machines." 
 Tenen describes the interconnected code of the fire alarm in his house, which in turn is governed by the U.S. National Fire Alarm Code: 
@@ -80,6 +80,13 @@ and the impact of internet culture upon media creation.
 Rita Raley's "TXTual Practice" asks the question, "are text messages displayed on large video screens or mobile variable message signs,  or  projected on building facades or on open ground in public squares, meaningful or not meaningful?" (5). She considers public art installations 
 which utilize text messages to consider how this public art functions as "scenes of reading and writing that are particular to the moment of
 ubiquitous mobile media and that make visible certain transformations that are occurring in our relationship to text in the ordinary sense
-of linguistic signs." (7). She calls this dialetic "TXTual practice," 
+of linguistic signs." (7). She calls this dialetic "TXTual practice." However, this practice "can present certain challenges precisely
+because there is no durable object to recover and preserve for future study." (9). Raley attempts to archive this public art through 
+illustrations which appear in the document. While this practice may be useful for Raley's reading, it does not fully archive the experience 
+of experiencing the public art for oneself, nor should it, as the effects of public art are most effective when experienced in person. 
+Raley argues that the effect of texting for an unspecified general public changes how one texts and how the text is read:
+"Texting for public display reroutes the circuit between input and output, making the writing space visible and allowing participants to ping a channel, any channel, seeking ordinary response or self-affirming feedback, or sometimes simply to make some noise" (16). 
+The spontanity of these public art displays destablize what we imagine to be a text: "there is no stable text that one can look at for a meaningful period of time. They are not texts but text effects." (20). These text effects serve to change the environment of a particular area, and "invite collective attention, not in a pernicious  fashion,  but  rather  in  the  sense  of  propagandistic  manipulation." (25) This digital graffiti, then, not only changes how an environment looks, but how it functions and how a public interacts with and around it.
+Raley concludes, as humanities scholars, "We have a clear vested  interest in forms of monumentality (archives, canons, durable  inscriptions), but we have a less-recognized interest in maintaining a continuous connection to ephemeral production—in recognizing that which would otherwise disappear." (27). Web culture itself is emphemeral: here today, gone tomorrow. Websites spring up overnight, and just as quickly, they  vanish. Raley's techniques may be useful, not only for studying public text installations, but in studying the emphemerality of text online, and de-mystifying such text. 
 
 
