@@ -22,7 +22,7 @@ words <- cage %>%
 
 View(words) 
 
-{r}```
+'''{r}
 
 First, stop-words were sorted by count, so we ran an operation which would allow us to remove stop-words (such as "the," "and", "if", "but"). 
 
