@@ -64,6 +64,11 @@ a computer as pages) betray echos of haunted media, such as Victorian spirit wri
 
 ![Image](https://s3.amazonaws.com/prod-media.gameinformer.com/styles/body_default/s3/legacy-images/imagefeed/Classic%20GI%3A%20I%20Have%20No%20Mouth%2C%20And%20I%20Must%20Scream/amhate.jpg)
 This image is a screenshot from the point-and-click PC adventure game adaptation of "I Have No Mouth and I Must Scream." 
+The text reads, "HATE. LET ME TELL YOU HOW MUCH I'VE COME TO HATE YOU SINCE I BEGAN TO LIVE. THERE ARE 387.44 MILLION MILES OF PRINTED
+CIRCUITS IN WAFER THIN LAYERS THAT FILL MY COMPLEX. IF THE WORD HATE WAS ENGRAVED ON EACH NANOANGSTROM OF THOSE HUNDREDS OF MILLIONS OF
+MILES IT WOULD NOT EQUAL ONE ONE-BILLIONTH OF THE HATE I FEEL FOR HUMANS AT THIS MICRO-INSTANT FOR YOU. HATE. HATE."
+This speech directly references AM's inorganic nature as one of the attributes which propel its hate for all humans and set it directly 
+apart from biological bodies.
 
 [Here is a link regarding the development of the short story into a computer game.](https://www.gameinformer.com/b/features/archive/2016/01/14/classic-gi-i-have-no-mouth-and-i-must-scream.aspx)
 
