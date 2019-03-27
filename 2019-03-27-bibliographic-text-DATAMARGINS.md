@@ -35,10 +35,14 @@ shows how predictive data models place police forces in low-income neighborhoods
 ticketed, imprisoned, or killed for being merely suspected of crimes, which O'Neill calls a "pernicious feedback loop" in further criminalizing 
 poverty in the United States. 
 They sum up their points in concise bullet points: 
-*Data feminism isn't only about women.
-*Data feminism isn't only for women. 
-*Data feminism isn't only about gender.
-*Feminism is about power - who has it and who doesn't.
+
+* Data feminism isn't only about women.
+
+* Data feminism isn't only for women. 
+
+* Data feminism isn't only about gender.
+
+* Feminism is about power - who has it and who doesn't.
 
 Serena Williams was negatively impacted and nearly died in childbirth: as she pointed out on Facebook, "Black women are over 3 times more likely than 
 white women to die from pregnancy- or childbirth-related causes." A death of medical data regarding how bodies, especially those most underprivileged, 
