@@ -85,8 +85,38 @@ non-human, displaced element of computer cognition. William Gibson (author of cy
 crystalline formation inside his computer, but "what I got was a little piece of a Victorian engine that made noises like a scratchy old
 record player." (87-88). Kirschenbaum attempts to construct a grammatology of the hard drive next: "Here is my list: it is random access; it
 is a signal processor; it is differential (and chronographic); it is volumetric; it is rationalized (and atomized); it is motiondependent;
-it is planographic; and it is nonvolatile (but also variable)." (89) THis list assists in assembling a dialectic of the computer which is 
+it is planographic; and it is nonvolatile (but also variable)." (89) This list assists in assembling a dialectic of the computer which is 
 not based on preternatural explanations of the hard drive. 
 
+In reading Sydney Padua's *The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer*, the use of 
+comics to tell the story of Ada Lovelace and Charles Babbage is effective in not only chronicling what the historical record has left us, 
+but in imagining what may have happened if Lovelace and Babbage had actually been able to continue their work. Ada Lovelace was the only 
+legitimate daughter of Lord Byron. To warn the young Ada Lovelace away from "dangerous poetical tendencies," she was given a strict mathe-
+matical education, but instead of lacking imagination, her bountiful mind allowed her to become the first person to write a paper on 
+computer programming, annotating and translating Luigi Menabrea's *Sketch of the Analytical Engine*- her footnotes span seven entries and 
+are two and a half times longer than the original paper. Padua mirrors this structure in her page layout when she describes this process on page 25, placing her comic strip at the top of the page, in two panels which first show Lovelace surrounded by swirls of thought, writing 
+with a quill pen, and then a closeup on her candle and her quill pen, writing what looks to be lines of zeros. Below this strip, Padua 
+places six paragraphs of a footnote. In this footnote, Padua explains that while Babbage was interested in the mechanical processes of the 
+Engine (the hardware), Lovelace creates a philosophy to web onto the machine, the software. As Lovelace wrote her footnotes, she realized that the Engine "might act upon other things besides number, were objects found whose mutual fundamental relations could be expressed by 
+those of the abstract science of operations, and which should also be succeptible of adaptions to the action of the operating notation and 
+mechanism of the action." (26). The language of the machine, then, could analyze all subjects in the universe if properly translated, almost 
+"a poetical science." (27). Padua pictures Lovelace at the center of a web of complex chains and trees, as though to mirror programming
+trees. The tragic end of Babbage and Lovelace, of course, differs from the imaginary adventures which Padua uses to explicate upon the 
+Analytical Engine and how it could be used, and yet in Babbages *Ninth Bridgewater Thesis,* Babbage himself comes close to imagining the 
+processes of alternate universes (40). 
 
+The effect of introducing The Pocket Universe as a means of exploring what would have been if Babbage and Lovelace had continued to live, 
+instead of what happened in actuality: Babbage died at age seventy-nine, and Lovelace died at thirty-six after contracting uterine cancer. 
+The Pocket Universe is also what is unseen, on the margins, unknown, as we can't know what Babbage and Lovelace would have gone on to do, 
+had they not died. The hard drive of a computer as a closed system (and by saying "closed system," I'm arguing we can't see what is going on 
+inside a harddrive with immediacy, without directly observing it) in which data can run unobserved mirrors this void of knowledge which 
+Padua fills in an entertaining fashion. Perhaps I'm stretching the computer metaphor a bit thin here, but the parallel universe structure is also fulfilled by imagining Padua's construction of this graphic novel as memory that's reserved for potential data which can then run 
+multiple operations during computer multitasking, which our current computers are perfectly capable of doing. Since our computers contain multiple (conceptual) universes, the Pocket Universe fits within the universe which Padua introduces during this graphic novel. 
+
+In addition to these observations, the use of the Analytical Engine to fight crime while "Wrong" messages pop up as a way to explain how 
+Babbage designed error messages directly for his machine (69), along with intriguing tidbits that she was perhaps working as a bookie for 
+horse races (106), along with the fact that Karl Marx drew upon Babbage's writing (121). Padua clarifies that the difference
+engine worked as a handcranked adding machine which was to be superseded by the analytical engine, which was to be a punch card-programmed,
+memory storing, self-acting calculating machine, which should command the powers of arithmetic (132). The Pocket Universe is also just plain 
+fun, as Padua creates a new tale which serves to narrate facts about Babbage and Lovelace in an intriguing and engaging fashion. 
 
