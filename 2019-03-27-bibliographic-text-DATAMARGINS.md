@@ -55,5 +55,15 @@ while selfie cameras may not register darker skin. Facial recognition software c
 fashion which may remind astute watchers of *1984*'s Big Brother. Preponderance of data may overidentify some, while underidentifying other problems. 
 
 
+Unseen data, as in the form of a computer's hard drive, may go unseen forever, as Matthew G. Kirschenbaum points out in "Extreme
+Inscription: A Grammatology of the Hard Drive": "Most users will never see their hard drive during the life of their computer" (75). 
+It therefore remains abstracted and distanced from the daily life of a computer's user, or perceived through the cue of the hard drive 
+spinning up. Synthetic recall of data in the form of a computer was anthropomorphized in advertising for the Random Access Memory And Control computer from IBM as a "professor" or "genius" which remind one of Arthur C. Clarke's HAL 9000 (and more dystopically, the God-like 
+computer AM in Harlan Ellison's 1967 short story "I Have No Mouth, and I Must Scream.") The ability to "read" a book (figured as disks on 
+a computer as pages) betray echos of haunted media, such as Victorian spirit writing. 
+
+
+![Image](https://s3.amazonaws.com/prod-media.gameinformer.com/styles/body_default/s3/legacy-images/imagefeed/Classic%20GI%3A%20I%20Have%20No%20Mouth%2C%20And%20I%20Must%20Scream/amhate.jpg)
+
 
 
