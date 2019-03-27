@@ -63,6 +63,7 @@ computer AM in Harlan Ellison's 1967 short story "I Have No Mouth, and I Must Sc
 a computer as pages) betray echos of haunted media, such as Victorian spirit writing. 
 
 ![Image](https://s3.amazonaws.com/prod-media.gameinformer.com/styles/body_default/s3/legacy-images/imagefeed/Classic%20GI%3A%20I%20Have%20No%20Mouth%2C%20And%20I%20Must%20Scream/amhate.jpg)
+
 This image is a screenshot from the point-and-click PC adventure game adaptation of "I Have No Mouth and I Must Scream." 
 The text reads, "HATE. LET ME TELL YOU HOW MUCH I'VE COME TO HATE YOU SINCE I BEGAN TO LIVE. THERE ARE 387.44 MILLION MILES OF PRINTED
 CIRCUITS IN WAFER THIN LAYERS THAT FILL MY COMPLEX. IF THE WORD HATE WAS ENGRAVED ON EACH NANOANGSTROM OF THOSE HUNDREDS OF MILLIONS OF
