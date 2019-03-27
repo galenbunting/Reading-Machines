@@ -62,8 +62,19 @@ spinning up. Synthetic recall of data in the form of a computer was anthropomorp
 computer AM in Harlan Ellison's 1967 short story "I Have No Mouth, and I Must Scream.") The ability to "read" a book (figured as disks on 
 a computer as pages) betray echos of haunted media, such as Victorian spirit writing. 
 
-
 ![Image](https://s3.amazonaws.com/prod-media.gameinformer.com/styles/body_default/s3/legacy-images/imagefeed/Classic%20GI%3A%20I%20Have%20No%20Mouth%2C%20And%20I%20Must%20Scream/amhate.jpg)
+This image is a screenshot from the point-and-click PC adventure game adaptation of "I Have No Mouth and I Must Scream." 
+
+[Here is a link regarding the development of the short story into a computer game.](https://www.gameinformer.com/b/features/archive/2016/01/14/classic-gi-i-have-no-mouth-and-i-must-scream.aspx)
+
+Kirschenbaum continues, "Digital inscription is a form of displacement. Its fundamental characteristic is to remove digital objects 
+from the channels of direct human intervention." (86) The configuation of a God-like or all-powerful computer betrays this phobia of the 
+non-human, displaced element of computer cognition. William Gibson (author of cyberpunk 1984 novel *Neuromancer*) tells of expecting a
+crystalline formation inside his computer, but "what I got was a little piece of a Victorian engine that made noises like a scratchy old
+record player." (87-88). Kirschenbaum attempts to construct a grammatology of the hard drive next: "Here is my list: it is random access; it
+is a signal processor; it is differential (and chronographic); it is volumetric; it is rationalized (and atomized); it is motiondependent;
+it is planographic; and it is nonvolatile (but also variable)." (89) THis list assists in assembling a dialectic of the computer which is 
+not based on preternatural explanations of the hard drive. 
 
 
 
