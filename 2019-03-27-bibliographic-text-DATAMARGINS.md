@@ -54,6 +54,12 @@ teen whose purchasing data exposed her as being pregnant. Google's Art and Cultu
 while selfie cameras may not register darker skin. Facial recognition software could misidentify or track users, in a disturbing and invasive 
 fashion which may remind astute watchers of *1984*'s Big Brother. Preponderance of data may overidentify some, while underidentifying other problems. 
 
+Clarifying where one's data is coming from, as well as presenting one's data in a clearly interpretable manner, can sometimes be tricky, as 
+Katie Rawson and Trevor Munoz explore in "Against Cleaning." Though one's data may be complicated by its own structure, scaling data can 
+sometimes eradicate "nonscalable elements" from the picture entirely, presenting a picture which is cleaner and more tidy than data often 
+are. In this respect, Rawson and Munoz built upon the work of Anna Tsing: "While scalable design creates only one relationship between elements of a system (what Tsing calls 'precision nesting'), nonscalable phenomena are enmeshed in multiple relationships, outside or in tension with the nesting frame." Therefore, they explored more ways to codify data beyond their initial entry points: "Following Tsing, we came to see points of articulation which had previously been invisible to us as would-be consumers of scaled data. Beginning from the creation of the original, physical menus and tracing the development of the crowd-created data, we identify and account for 'nonscalable elements'-and consequently, edge further and further from the terminology of 'cleaning.'" They suggest an index as a way to be more precise 
+in discussing data. 
+
 
 Unseen data, as in the form of a computer's hard drive, may go unseen forever, as Matthew G. Kirschenbaum points out in "Extreme
 Inscription: A Grammatology of the Hard Drive": "Most users will never see their hard drive during the life of their computer" (75). 
